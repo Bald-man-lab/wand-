@@ -18,7 +18,7 @@
       background-repeat: no-repeat;
       background-position: center;
       color: #f3ffff;
-      cursor: url('') 5 5, auto;
+      cursor: url('file:///C:/Users/K.Dempsey/Downloads/magic-wand-illustration-vector-on-white-background-2D6PH6A-removebg-preview.png') 5 5, auto;
     }
 
     h1 {
@@ -141,3 +141,4 @@
 
 </body>
 </html>
+
