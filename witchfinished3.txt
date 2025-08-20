@@ -1,0 +1,103 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Klara Witch</title>
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet">
+
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Oswald', sans-serif;
+      background-image: url('https://static.vecteezy.com/system/resources/previews/048/685/461/non_2x/witchcraft-seamless-pattern-happy-halloween-day-magic-print-design-with-snake-crystal-bat-knife-taro-hat-kids-cartoon-flat-repeat-background-for-gift-paper-packaging-wallpaper-vector.jpg');
+      background-attachment: fixed;
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+      color: #f3ffff;
+    }
+
+    h1 {
+      background-color: pink;
+      color: black;
+      text-align: center;
+      font-size: 100px;
+      margin: 0;
+      padding: 20px;
+    }
+
+    .text-box {
+      background-color: rgba(255, 182, 193, 0.85);
+      border: 4px solid lightpink;
+      margin: 40px auto;
+      padding: 30px;
+      max-width: 800px;
+      font-size: 24px;
+      line-height: 1.6;
+      border-radius: 15px;
+      box-shadow: 0 0 20px #4B0082;
+    }
+
+    a {
+      display: inline-block;
+      padding: 10px 15px;
+      background-color: #4B0082;
+      color: white;
+      border: 2px solid lightpink;
+      border-radius: 10px;
+      text-decoration: none;
+      font-weight: bold;
+      transition: all 0.3s ease;
+      margin-top: 10px;
+    }
+
+    a:hover {
+      background-color: #8B008B;
+      color: #fff;
+    }
+
+    /* Responsive */
+    @media (max-width: 600px) {
+      h1 {
+        font-size: 48px;
+        padding: 10px;
+      }
+
+      .text-box {
+        padding: 20px;
+        font-size: 18px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>A simple potion to raise the dead.</h1>
+
+  <div class="text-box">
+    <p>
+      From a qualified neighbourhood witch.<br><br>
+      Perfect for the new and experienced necromancers.<br><br>
+      <strong>Ingredients:</strong><br>
+      - Nightshade Extract – harvested under a new moon.<br>
+      - A sprinkle of Ghoul’s Ash – remains of a burned undead.<br>
+      - 1/2 cup Ectoplasm – collected from a tormented spirit.<br>
+      - 3 drops from the blood of the living dead.<br>
+      - 5 Bone Flower Petals – a purple flower that only grows in grave soil.<br>
+      - 2 cups Soul Amber – crystallized soul energy.<br><br>
+
+      <strong>Instructions:</strong><br>
+      On a blood moon, in a large cauldron (must be cast iron), combine all dry ingredients and mix thoroughly. On high heat, add the ectoplasm and wet ingredients while stirring constantly for four hours, chanting:<br><em>"mures inclusi essent pedes"</em>.<br>
+      After four hours, let sit for 3 days. Then transfer to as many glass vials as needed. (Make sure to label correctly to avoid mixing with other spells.)<br><br>
+
+      <a href="https://www.youtube.com/watch?v=Jr58Ufsrfo" target="_blank">Watch: Nosferatu</a><br>
+    </p>
+  </div>
+
+</body>
+</html>
